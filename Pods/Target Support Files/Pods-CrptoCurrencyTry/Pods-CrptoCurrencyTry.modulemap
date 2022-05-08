@@ -1,0 +1,6 @@
+framework module Pods_CrptoCurrencyTry {
+  umbrella header "Pods-CrptoCurrencyTry-umbrella.h"
+
+  export *
+  module * { export * }
+}
