@@ -14,6 +14,8 @@ class ViewController: UIViewController {
     var templistName = ["BTC","ETH"]
     var templistPrice = ["10","20"]
     
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
